@@ -3,7 +3,7 @@
 smart_methods helps to define class and instance methods using pretty DSL.
 
 [![Build Status](https://secure.travis-ci.org/aderyabin/smart_methods.png)](http://travis-ci.org/aderyabin/smart_methods)
-[![Gem Version](https://badge.fury.io/aderyabin/smart_methods.png)](http://badge.fury.io/aderyabin/smart_methods)
+[![Gem Version](https://badge.fury.io/rb/smart_methods.png)](http://badge.fury.io/aderyabin/smart_methods)
 [![Dependency Status](https://gemnasium.com/aderyabin/smart_methods.png)](https://gemnasium.com/aderyabin/smart_methods)
 [![Code Climate](https://codeclimate.com/github/aderyabin/smart_methods.png)](https://codeclimate.com/github/aderyabin/smart_methods)
 
